@@ -306,7 +306,8 @@ This project is licensed under the MIT License.
 
 GitHub:
 
-https://github.com/Shreyascr5
+https://github.com/Shreyascr5,
+https://github.com/SanjayS2000
 
 ---
 
