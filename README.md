@@ -302,6 +302,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Shreyas C R**
+**Sanjay S**
 
 GitHub:
 
